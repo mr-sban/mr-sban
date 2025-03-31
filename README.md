@@ -1,17 +1,16 @@
 <div align="center">
   <h2>Hello! 👋</h2>
 </div>
+<p>My name is Sven! I am a software engineer based out of the Okanagan with a passion for cybersecurity and server management with plans to obtain my certifications and begin working in industry.</p>
 
-I'm Sven, a software engineer with a passion for Java and JavaScript. I build for scalability and efficiency in my applications, but I am always eager to embrace new technologies and keep my skills sharp.
-
-- 🔭 I’m currently studying for my BCs @ [UBCO](https://ok.ubc.ca/).
-- 🌱 I’m currently learning analysis of algorithms, networking, and project management.
-- 📫 Reach me via 👉 [Email](mailto:mr-sban@users.noreply.github.com)  [LinkedIn](https://www.linkedin.com/in/svenannist/)
-
+<ul>
+  <li>🔭 I’m currently studying for my BCs @ <a href="https://ok.ubc.ca/">UBCO</a>.</li>
+  <li>🌱 I’m currently learning analysis of algorithms, networking, and project management.</li>
+  <li>📫 Reach me via 👉 <a href="mailto:mr-sban@users.noreply.github.com">Email</a> <a href="https://www.linkedin.com/in/svenannist/">LinkedIn</a></li>
+</ul>
 <div align="center">
-  <h2>Skills</h2>
+<h2>Skills</h2>
 </div>
-
 <!---
 ### Programming Languages
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)--->
@@ -40,11 +39,14 @@ I'm Sven, a software engineer with a passion for Java and JavaScript. I build fo
 
 <div align="center">
   <h2>Projects</h2>
-</div>
+
 
 Here are a few projects I have worked on:
+</div>
 
 - [TaskManager](https://github.com/mr-sban/taskmanager): A comprehensive task management application designed to help users organize and prioritize their tasks efficiently. It includes features such as task categorization, reminders, and progress tracking. This project also involved the deployment of a remote MySQL database on a Linux server.
 - [BikeShare](https://github.com/BikeSharingG14/bikeshare): An innovative bike-sharing platform that allows users to find, rent, and return bikes at various locations within a city. The project emphasizes user-friendly interfaces and real-time bike availability tracking.
 
-Thank you for visiting my profile!
+<div align="center">
+<b>Thank you for visiting my profile!</b>
+</div>
