@@ -16,10 +16,10 @@
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)--->
 <div align="center">
   <a href="https://github.com/mr-sban">
-    <img height=200 align="center" src="https://github-readme-stats-black-chi-93.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true" />
+    <img height=200 align="center" src="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/mr-sban">
-    <img height=200 align="center" src="https://github-readme-stats-black-chi-93.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5" />
+    <img height=200 align="center" src="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
 
