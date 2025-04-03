@@ -16,22 +16,25 @@
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)--->
 <div align="center">
   <a href="https://github.com/mr-sban">
-    <!-- Dark Mode: Catppuccin Mocha -->
     <picture>
-      <source srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=9550f0" media="(prefers-color-scheme: dark)">
-      <!-- Light Mode: Catppuccin Latte -->
-      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=9550f0" alt="GitHub Stats" height="200">
+      <!-- Dark Mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&theme=dark&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true">
+      <!-- Light Mode -->
+      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&theme=light&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="200">
     </picture>
   </a>
   <a href="https://github.com/mr-sban">
-    <!-- Dark Mode: Catppuccin Mocha -->
     <picture>
-      <source srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=9550f0" media="(prefers-color-scheme: dark)">
-      <!-- Light Mode: Catppuccin Latte -->
-      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=9550f0" alt="Top Languages" height="200">
+      <!-- Dark Mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&theme=dark&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5">
+      <!-- Light Mode -->
+      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&theme=light&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="200">
     </picture>
   </a>
 </div>
+
+
+
 
 
 
