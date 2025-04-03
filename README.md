@@ -14,24 +14,31 @@
 <!---
 ### Programming Languages
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)--->
-<div align="center">
-  <a href="https://github.com/mr-sban">
-    <picture>
-      <!-- Dark Mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&theme=dark&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true">
-      <!-- Light Mode -->
-      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api?username=mr-sban&theme=light&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="200">
-    </picture>
-  </a>
-  <a href="https://github.com/mr-sban">
-    <picture>
-      <!-- Dark Mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&theme=dark&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5">
-      <!-- Light Mode -->
-      <img src="https://github-readme-stats-mr-sbans-projects.vercel.app/api/top-langs/?username=mr-sban&theme=light&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="200">
-    </picture>
-  </a>
-</div>
+<a href="https://github.com/mr-sban#gh-light-mode-only">
+  <img 
+    src="https://github-readme-stats-black-chi-93.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true&theme=default#gh-light-mode-only" 
+    alt="GitHub Stats (Light Mode)" 
+    height="200">
+</a>
+<a href="https://github.com/mr-sban#gh-dark-mode-only">
+  <img 
+    src="https://github-readme-stats-black-chi-93.vercel.app/api?username=mr-sban&show_icons=true&count_private=true&hide=stars,contribs&show=reviews,prs_merged_percentage&hide_rank=true&include_all_commits=true&theme=dark#gh-dark-mode-only" 
+    alt="GitHub Stats (Dark Mode)" 
+    height="200">
+</a>
+
+<a href="https://github.com/mr-sban#gh-light-mode-only">
+  <img 
+    src="https://github-readme-stats-black-chi-93.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5&theme=default#gh-light-mode-only" 
+    alt="Top Languages (Light Mode)" 
+    height="200">
+</a>
+<a href="https://github.com/mr-sban#gh-dark-mode-only">
+  <img 
+    src="https://github-readme-stats-black-chi-93.vercel.app/api/top-langs/?username=mr-sban&hide=tex&layout=donut&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only" 
+    alt="Top Languages (Dark Mode)" 
+    height="200">
+</a>
 
 
 
