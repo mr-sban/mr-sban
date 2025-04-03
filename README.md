@@ -76,7 +76,7 @@ Here are a few projects I have worked on:
 </div>
 
 - [TaskManager](https://github.com/mr-sban/taskmanager): A comprehensive task management application designed to help users organize and prioritize their tasks efficiently. It includes features such as task categorization, reminders, and progress tracking. This project also involved the deployment of a remote MySQL database on a Linux server.
-- [BikeShare](https://github.com/BikeSharingG14/bikeshare): An innovative bike-sharing platform that allows users to find, rent, and return bikes at various locations within a city. The project emphasizes user-friendly interfaces and real-time bike availability tracking.
+- [BikeShare](https://github.com/Eveline36/BikeSharingG14): An innovative bike-sharing platform that allows users to find, rent, and return bikes at various locations within a city. The project emphasizes user-friendly interfaces and real-time bike availability tracking.
 
 <div align="center">
 <b>Thank you for visiting my profile!</b>
