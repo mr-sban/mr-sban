@@ -1,11 +1,14 @@
 <div align="center">
-  <h2>Hello! 👋</h2>
+  <h2>Hi 😸</h2>
 </div>
-<p>My name is Sven! I am a software engineer based out of the Okanagan with a passion for cybersecurity and server management with plans to obtain my certifications and begin working in industry.</p>
+<p>My name is Sven! I am a software engineer based out of the Okanagan.</p>
+  
+  <!--with a passion for cybersecurity and server management with plans to obtain my certifications and begin working in industry-->
+
 
 <ul>
-  <li>🔭 I’m currently studying for my BCs @ <a href="https://ok.ubc.ca/">UBCO</a>.</li>
-  <li>🌱 I’m currently learning analysis of algorithms, networking, and project management.</li>
+  <li>🔭 I’m currently finishing up my BCs @ <a href="https://ok.ubc.ca/">UBCO</a>.</li>
+  <!--<li>🌱 I’m currently working on my capstone presentation.</li>-->
   <li>📫 Reach me via 👉 <a href="mailto:mr-sban@users.noreply.github.com">Email</a> <a href="https://www.linkedin.com/in/svenannist/">LinkedIn</a></li>
 </ul>
 <div align="center">
@@ -67,17 +70,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="48" height="48" style="vertical-align: middle;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="vertical-align: middle;"/>
 </div>
-
+<!--
 <div align="center">
   <h2>Projects</h2>
-
-
 Here are a few projects I have worked on:
 </div>
-
 - [TaskManager](https://github.com/mr-sban/taskmanager): A comprehensive task management application designed to help users organize and prioritize their tasks efficiently. It includes features such as task categorization, reminders, and progress tracking. This project also involved the deployment of a remote MySQL database on a Linux server.
 - [BikeShare](https://github.com/Eveline36/BikeSharingG14): An innovative bike-sharing platform that allows users to find, rent, and return bikes at various locations within a city. The project emphasizes user-friendly interfaces and real-time bike availability tracking.
-
-<div align="center">
+--><div align="center">
 <b>Thank you for visiting my profile!</b>
 </div>
